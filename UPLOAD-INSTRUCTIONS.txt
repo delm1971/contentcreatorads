@@ -1,0 +1,1 @@
+Upload all 8 HTML files and sitemap.xml to the ROOT of your existing GitHub repository. Replace the existing sitemap.xml when prompted. The HTML pages already contain your TikTok for Business affiliate link.
